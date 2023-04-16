@@ -1,5 +1,10 @@
 # RL_Minihack_Project
-Reinforcement learning project training agents based on customized minihack environment
+Reinforcement learning project training agents based on customized minihack environment.
+
+Team Member:
+Xiaoyan HONG, xiaoyan.hong@student-cs.fr
+Xincheng LUO, xincheng.luo@student-cs.fr
+Joshua Fan, joshua.fan@student-cs.fr
 
 There will be **three levels**:
 1. The environment in the primary level only has an agent, trees and walls, and the agent should somehow find the fixed exit point through learning while avoid running into an obstacle; 

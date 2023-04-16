@@ -2,8 +2,11 @@
 Reinforcement learning project training agents based on customized minihack environment.
 
 Team Member:
-Xiaoyan HONG, xiaoyan.hong@student-cs.fr
+
+Xiaoyan HONG, xiaoyan.hong@student-cs.fr 
+
 Xincheng LUO, xincheng.luo@student-cs.fr
+
 Joshua Fan, joshua.fan@student-cs.fr
 
 There will be **three levels**:
